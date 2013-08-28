@@ -1,3 +1,3 @@
 This is a new file created by me.
-i want another coflict.
+why?
 edited on remote.
