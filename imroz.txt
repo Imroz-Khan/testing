@@ -1,2 +1,4 @@
 This is a new file created by me.
 Now i will delete it.
+It will never be deleted.
+ok now.
